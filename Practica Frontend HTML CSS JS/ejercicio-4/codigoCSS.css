@@ -1,0 +1,22 @@
+body{
+    background-color: cyan;
+    text-align: center;
+}
+
+p{
+    font-size: 35px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 100px;
+}
+
+button{
+    background-color: rgb(0, 255, 213);
+    font-size: 50px;
+    padding: 50px;
+}
