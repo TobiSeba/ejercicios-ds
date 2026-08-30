@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+    font-size: 40px;
+    color: #0602ff
+}
+
+button {
+    padding: 25px 25px;
+    font-size: 16px;
+    background-color: white;
+    color: black;
+}
+
+/*
+1. Crear una página HTML con un botón que cambie el color 
+de fondo usando JavaScript.
+● HTML: Un título <h1>, un párrafo y un botón.
+● CSS: Estilo básico para el texto y el botón.
+● JS: Al hacer clic en el botón, cambia el color de fondo 
+de la página a un color aleatorio  
+*/
